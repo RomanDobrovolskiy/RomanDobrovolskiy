@@ -1,19 +1,19 @@
-### Привет 👋
+### Hello, world! 👋
 
 ---
 ### Немного обо мне:
 
- - Меня зовут _Денис Горшков_
- - Мне _28 лет_
- - Я _Java-разработчик_ из России, _г. Ульяновск_
+ - Меня зовут _Роман Добровольский_
+ - Мне _26 лет_
+ - Я _Java-разработчик_ из России, _г. Екатеринбург_
 
 ---
 
 ### Связаться со мной можно:
-<a href="https://t.me/gorden73">
+<a href="https://t.me/r_dobrovolskiy">
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
-<a href="mailto:gorshkov.dv94@gmail.com">
+<a href="mailto:roman.dobrovolskiy96@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My Gmail"/>
 </a>
 
@@ -52,31 +52,8 @@ Core для организации совместной работы над за
 <br>- [Filmorate](https://github.com/gorden73/Filmorate) - REST приложение для работы с базой 
 фильмов и оценками пользователей
 <br>- [ShareIt](https://github.com/gorden73/ShareIt) - REST приложение для аренды разных вещей
-<br>- [Later](https://github.com/gorden73/Later) - REST приложение для сохранения полезных ссылок "на 
-потом"
 <br>- [Explore-with-me](https://github.com/gorden73/Explore-with-me) - REST приложение для организации 
 событий и участия в них.
 
 ---
 
-### Немного статистики:
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorden73&layout=compact)](https://github.com/gorden73/github-readme-stats)
-<br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorden73&theme=solarized_dark)
-<br>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorden73&theme=solarized_dark)
-<br>![](https://komarev.com/ghpvc/?username=gorden73)
-
-<!--
-**gorden73/gorden73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
