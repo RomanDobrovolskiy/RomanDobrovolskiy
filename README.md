@@ -47,7 +47,7 @@ Backend важная составляющая любого приложения,
 <br>- [ShareIt](https://github.com/RomanDobrovolskiy/java-shareit) - REST приложение для аренды разных вещей
 <br>- [Explore-with-me](https://github.com/RomanDobrovolskiy/java-explore-with-me) - REST приложение для организации 
 событий и участия в них
-<br>- [OpenCase] - (на стадии локальной разработки), аналог известных OpenCase игр, симулятор открытия контейнеров.
+<br>- OpenCase - (на стадии локальной разработки), аналог известных OpenCase игр, симулятор открытия контейнеров.
 
 ---
 
