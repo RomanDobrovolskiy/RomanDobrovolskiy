@@ -10,6 +10,16 @@
 
 ---
 
+### Связаться со мной можно:
+<a href="https://t.me/r_dobrovolskiy">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
+</a>
+<a href="mailto:roman.dobrovolskiy96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My Gmail"/>
+</a>
+
+---
+
 <!--
 **RomanDobrovolskiy/RomanDobrovolskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
