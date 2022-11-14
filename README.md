@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, world! 👋
+
+---
+
+### Немного обо мне:
+
+ - Меня зовут _Роман Добровольский_
+ - Мне _26 лет_
+ - Я _Java-разработчик_ из России, _г. Екатеринбург_
+
+---
 
 <!--
 **RomanDobrovolskiy/RomanDobrovolskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
